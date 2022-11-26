@@ -1,4 +1,4 @@
-﻿int correctCode = 0;
+int correctCode = 0;
 int maxPositions = 100;
 int currentNumber = 0;
 
